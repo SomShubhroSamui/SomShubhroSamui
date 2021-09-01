@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SomShubhroSamui
+- 👋 Hi, I’m @Som 
 - 👀 I’m interested in Project Management
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on RSVC Project
